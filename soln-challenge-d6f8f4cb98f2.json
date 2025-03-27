@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "soln-challenge",
+  "private_key_id": "d6f8f4cb98f231a979a58b6d781a2bd1b4ee7f28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCt0NzGLht4VQPO\nhMmAIM+7iSuTE6EV7Dbql4LIYaJdZo/lsvEAXNDfd6plqAfs2MLq8fhpgakiACqx\nOu5gG+JBoeWsUkDY7PCnA31FNoJUyQwc85K9I2Pfs8qSU/EjE5tdI0kXcvn5fQPL\nM2x3KNzRLkfOWWzZlDIn73meYqoht524YJ/QOZSVbCXwPaUTMBh2XmvjpdJ6KwpF\nZy63sWTdQYdAy26P6rpTvMIC4c8ok2nvm2jzlM3nApTA1dqo6K7lyyqICWiu/8HV\nY2MYbf7MSDQ3q71WU4p/2oW924A2MYJH+QTni/G6/DZnO+KW8vOhJQ8We+/BA3Ge\nGFwGMBirAgMBAAECggEACocfkCtjw46Wq/AUClwyaN/+kSp7s8m6a8wggkWToYeg\nSJ/lhAmbJyXm3sBmNnzMlZFxY+aUGXicHV796DlYI3SMZjsXLWxwiRUnhcUu8La6\nspg4N5eIqZiIuQM3lFHQM7x65V4z8N4XGDw1oiQJ9+uPMtrswmL9BLk3CxZbyq3s\nUKWjqS+isPtAKDgrBeRJVqnxZgkoevrqZPQAuvJFfgkIaVDxZqnt3B9V9Cz0OvCW\ngvl7gyZWRMsBsxf1VYGGjDM3EdiQxUhQhphdg8hd1dzXsaRBys69XMA7WQQosBrN\nf9uFTY0O8nnNOI/oJmq4MaaAcLblNvj7VB6sFIk3tQKBgQDkA6t3UP1XEMK0+F/8\n0rtOI3wUikT44iykNEfuTopYkhCXfNqvaFlQc5B79I8+Fs1QOyDMhIvjvAFYvXB+\ncje9ZQTYTMRh3NTjMY+YnzZ4F6BUO0hPXRUGIykEPMeJPGfFZUCTUtDtIeiKHnsY\nrF9MffxtddFnxy4sV7WnNDvzZQKBgQDDJj+R40ZwGrzoqrZ2fhciKiv0Ww0rv07k\neqthXoskpt1Tk3v4apX9r/woa9ds/j6bO46rOd8AFjiBHBYKPzaRGwWifNEYX13c\n30u0y3OXt3tfOqiJaSKlSSV0p4O/fu6OT++bJCtMV8NNt0BfOeC2n63+lBnQ9POH\nseStMlmCzwKBgQDiCOFJ/vel/++FB1Pghec4puSyV//X2h73CPzluOZcty/LfPIt\nQPyJTIbG2sHFg0U1a+gv1pX2xMFw/xstvnyTPDl5U2C6wvgn4VHAstSEaKd/2OTu\nCBB3bROUJ8yGt2MHxEAny8lhymODyIOvCfHPGnXK7SkR/9o+CxUBFD76IQKBgALv\nnmE5hCPHozP07Y3W085FyCeC/y27URqK5e0vGPTSNd4+B81y/RK2BRsulC0lnheD\ny9+znTFJJEx8+a/px45jU7BgJF0zghwCmAb+UJzlu8tw/Hwkwsqt0QxyQL8uz7QA\na+BvqN8bKusOaL+GBWV5/Yoo/EJyjP9ro78fVM1tAoGBALXgjh4DqYE7Jri4mxpH\nM467G7fQoylz/Eq6eu/IaGl+VpA2ih5DQE/H6mJhyV/AihYQIo5zRE1z6vnlEZIw\nI2+s3RiGIFilFlStZZZq4vHN0QtnmS3aJ14pIJDYMIfbm6buKRYQQ4vY1u7JeGN+\nDoM0c7gKnzvOgvrUp8U4ZOSD\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-agent@soln-challenge.iam.gserviceaccount.com",
+  "client_id": "107135188022249937135",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-agent%40soln-challenge.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
